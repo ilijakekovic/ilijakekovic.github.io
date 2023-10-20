@@ -1,3 +1,8 @@
 body{
     background-color: #53514e;
 }
+
+a{
+    color: #53514e;
+    font-size: smaller;
+}
